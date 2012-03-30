@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<head>
+  <!-- Use Google's jQuery -->
+  <script type="text/javascript" src="https://www.google.com/jsapi"></script>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+  
+  <!-- Load js -->
+  <script type="text/javascript" src="./js/demo.js"></script>
+  <script type="text/javascript" src="./js/anim_lib.js"></script>
+
+  <!-- Load css -->
+  <link rel="stylesheet" href="./css/gallery.css" type="text/css" media="screen" title="no title" charset="utf-8">
+  <title>Image Gallery</title>
+</head>
+<body>
+  <!-- Image Gallery -->
+  <div id="gallery">
+    <!-- Left and Right icons- optional, do what you feel... -->
+    <span id="right"><span id="right-icon"></span></span>
+    <span id="left"><span id="left-icon"></span></span>
+    <!-- Create a single canvas element of whatever size you want. -->
+    <canvas id="frame" width="500" height="500"></canvas>
+  </div>
+</body>
