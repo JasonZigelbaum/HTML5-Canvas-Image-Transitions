@@ -1,0 +1,13 @@
+#gallery {
+  width:    500px;
+  height:   500px;
+  padding:  10px;
+  margin:   0px auto;
+  border:   5px solid #000;
+  -webkit-box-shadow:   0px 10px 15px 2px #CCC;
+  -moz-box-shadow:      0px 10px 15px 2px #CCC;
+  box-shadow:           0px 10px 15px 2px #CCC;
+}
+#frame {
+
+}
