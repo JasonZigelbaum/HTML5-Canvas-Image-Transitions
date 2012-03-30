@@ -1,12 +1,3 @@
-<style>
-a {
-  text-decoration:  none;
-  color:            #AAF;
-}
-a:hover {
-  color:            #77F;
-}
-</style>
 <h1>HTML 5 Canvas Image Transitions</h1>
 <p>This is a small library for image transitions using canvas. The demo uses a single animation called 'burn'. You are free to write your own and extend it, this is just an example.</p>
 <p>Check it out <a href="http://jasonzigelbaum.github.com/HTML5-Canvas-Image-Transitions/index.html">here</a>
