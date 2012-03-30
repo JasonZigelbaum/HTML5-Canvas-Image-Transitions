@@ -1,0 +1,2 @@
+<h1>HTML 5 Canvas Image Transitions</h1>
+<p>This is a small library for image transitions using canvas. The demo uses a single animation called 'burn'. You are free to write your own and extend it, this is just an example. The only issue I've noticed is that the framerate is variable across browsers. So be careful. I'll be working on it more as time goes on. Thanks for looking.</p>
